@@ -1,4 +1,4 @@
-# sebastian-gallego
+# repositorio1
 Primer repo creado en github
 
 ## descripción
